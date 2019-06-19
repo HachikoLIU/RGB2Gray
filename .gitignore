@@ -29,5 +29,9 @@
 
 # Executables
 *.exe
+
+#folder
+x64/*
+ipch/*
 *.out
 *.app
